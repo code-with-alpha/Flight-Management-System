@@ -51,7 +51,7 @@ if (flight.checkAvailability(1, "2027-07-27", "NewYork", "Lahore", 35, "economy"
 To make a reservation for a flight, use the makeReservation() method of the Reservation class. Pass the Flight object, flight number, date, departure city, destination city, desired number of seats, and seat type as parameters.
 ```CPP
 Reservation reservation("Quaid-e-Azam", "PK-3894", "+92 311 9823672");
-reservation.makeReservation(flight, 2, "2021-05-12", "Multan", "Islamabad", 35, "economy");
+reservation.makeReservation(flight, 1, "2027-07-27", "NewYork", "Lahore", 35, "economy");
 ```
 3. Display Flight Schedule
 To display the flight schedule, use the displaySchedule() method of the Flight class. This will print out the schedule of all available flights, including date, departure city, destination city, total available seats in economy class, and total available seats in business class.
