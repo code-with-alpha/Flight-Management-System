@@ -21,7 +21,7 @@ This project aims to provide a simple yet functional flight management system fo
 
 ## Customization
 
-You can set the number of flghts as well as the its data, according to your own configuration in the **main** functon. Here is a sample code
+You can set the number of flghts as well as the data, according to your own configuration in the **main** functon. Here is a sample code
 
 ```CPP
 const int n_flights = 3;
