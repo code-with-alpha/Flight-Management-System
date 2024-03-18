@@ -19,7 +19,7 @@ This project aims to provide a simple yet functional flight management system fo
 3. Run the compiled executable:
 4. Follow the on-screen prompts to interact with the flight management system.
 
-## Custtomization
+## Customization
 
 You can set the number of flghts as well as the its data, according to your own configuration in the **main** functon. Here is a sample code
 
