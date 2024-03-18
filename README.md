@@ -58,7 +58,25 @@ To display the flight schedule, use the displaySchedule() method of the Flight c
 ```CPP
 flight.displaySchedule();
 ```
-
+4. **Output**
+```Bash
+Flight Available!
+Flight Schedule:
+Flight 1:   2027-07-27      NewYork       Lahore           95      economy 
+Flight 2:   2021-05-12       Multan    Islamabad          110      economy 
+Flight 3:   2023-03-17      Karachi        Tokyo           90     business 
+----------
+Reservation confirmed for flight: 1
+Departing on: 2027-07-27
+Departure: NewYork
+Destination: Lahore
+------------------------------
+-----------
+Passenger Name: Quaid-e-Azam
+Passport Number: PK-3894
+Contact Number: +92 311 9823672
+-------------------------------
+```
 ## Project Structure
 
 This project consists of a single C++ source file **(main.cpp)** containing the implementation of the flight management system. Additional data such as flight schedules is provided inline within the source code.
